@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.myfirst.springboot</groupId>
-    <artifactId>01-springboot-web</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <name>01-springboot-web</name>
+    <artifactId>springboot01</artifactId>
+    <version>1.0</version>
+    <name>springboot01</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
