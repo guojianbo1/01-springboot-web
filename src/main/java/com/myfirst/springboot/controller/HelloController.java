@@ -14,6 +14,6 @@ public class HelloController {
 
     @RequestMapping("/boot/hello")
     public @ResponseBody String sayhello(){
-        return "Hello SpringBoot6";
+        return "Hello SpringBoot7";
     }
 }
